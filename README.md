@@ -1,13 +1,15 @@
 # football-evolution
 A simple visualization about evolution of the modern football over the last century
 
+![screenshot](/images/football-evolution.gif)
+
 ## Prerequisites
 
 * VS Code: https://code.visualstudio.com/
 * Live Server Plugin: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer 
 
 ## Installation
-In principle, you may use node or http to serve this app. However, there is a simpler way. The app does not (yet) have a "backend" and all of the code (including fetching data from newsapi) is written as part of the UI. For the sake of simplicity, follow below steps and directly see the results in you browser:
+In principle, you may use node or http to serve this app. However, there is a simpler way. Follow below steps and directly see the results in you browser:
 
  1. Open the project in Visual Studio Code.
  2. Run the application by clicking on the "Go Live" button (see Live Server Plugin)
